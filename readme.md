@@ -1,6 +1,6 @@
 * Do `npm install` to install all the dependencies.
  
-* If you get an error run `npm install` with `legacy-peer-deps flag`.
+* If you get an error run `npm install` with `legacy-peer-deps` flag.
 
 * Now just run `npm run dev` and you should be good to go.
 
